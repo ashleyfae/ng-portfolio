@@ -1,0 +1,14 @@
+.ng-portfolio-gallery {
+    display: flex;
+    flex-flow: wrap;
+    margin: 0 -10px 1.5em;
+
+    > a {
+        display: block;
+        padding: 10px;
+    }
+
+    img {
+        display: block;
+    }
+}
